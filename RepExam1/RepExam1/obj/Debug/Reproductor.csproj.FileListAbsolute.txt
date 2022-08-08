@@ -1,0 +1,16 @@
+C:\Users\Ciri\source\repos\RepExam1\RepExam1\bin\Debug\RepExam1.exe.config
+C:\Users\Ciri\source\repos\RepExam1\RepExam1\bin\Debug\RepExam1.exe
+C:\Users\Ciri\source\repos\RepExam1\RepExam1\bin\Debug\RepExam1.pdb
+C:\Users\Ciri\source\repos\RepExam1\RepExam1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Ciri\source\repos\RepExam1\RepExam1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Ciri\source\repos\RepExam1\RepExam1\obj\Debug\Reproductor.csproj.AssemblyReference.cache
+C:\Users\Ciri\source\repos\RepExam1\RepExam1\obj\Debug\Reproductor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ciri\source\repos\RepExam1\RepExam1\obj\Debug\Interop.WMPLib.dll
+C:\Users\Ciri\source\repos\RepExam1\RepExam1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Ciri\source\repos\RepExam1\RepExam1\obj\Debug\Reproductor.csproj.ResolveComReference.cache
+C:\Users\Ciri\source\repos\RepExam1\RepExam1\obj\Debug\RepExam1.Form1.resources
+C:\Users\Ciri\source\repos\RepExam1\RepExam1\obj\Debug\RepExam1.Properties.Resources.resources
+C:\Users\Ciri\source\repos\RepExam1\RepExam1\obj\Debug\Reproductor.csproj.GenerateResource.cache
+C:\Users\Ciri\source\repos\RepExam1\RepExam1\obj\Debug\Reproductor.csproj.CoreCompileInputs.cache
+C:\Users\Ciri\source\repos\RepExam1\RepExam1\obj\Debug\RepExam1.exe
+C:\Users\Ciri\source\repos\RepExam1\RepExam1\obj\Debug\RepExam1.pdb
